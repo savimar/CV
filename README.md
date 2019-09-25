@@ -1,11 +1,34 @@
 **Maria Savina**
 ===========
 ***# ASP NET Core Developer***
-
+### Contacts
 Moscow
+ - Phone
+   - +7 (916) 443-33-51
+ - Skype
+   - savimar33
+ - Telegramm 
+    - @savimar
+  - E-mail
+    - sam409@yandex.ru
 
 ##  I'm looking for a remote job
 
+### About me
+- Managing team
+- C#, Roslyn, Net Core, ASP.NET Core, Entity Framework
+- Java SE, Core, Java 8, Spring Framework
+- Design Patterns, Object Oriented Concepts, GoF Design Patterns, UML
+- Frontend technologies (HTML, CSS, JavaScript, jQuery)
+- GIT, SVN
+- JIRA, Confluence, SCRUM
+- unit testing
+- SQL, MySQL, PostgreSQL, MS SQL,
+- XML, JSON, REST
+- ANTLR4, Roslyn
+- IDEA, Eclipse, Visual Studio
+- Intermediate level of english (B1)
+- Work well with a multidiscipline team
 ### Work experience 
 
 - April 2019 — currently. **Visitech LLT**
@@ -58,6 +81,7 @@ Moscow
           - Home accounting: This project is for home accounting. I had made it myself from the beginning and to the end.
           - Recruitment: This's a small project for a recruitment. I was the only member of the team.
           
-###Higher education (bachelor)
+### Higher education (bachelor)
  - 2017 **Moscow Financial-Industrial University 'Synergy'**
    - ***IT, Developing***
+### Citizenship: Russia
