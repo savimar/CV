@@ -12,7 +12,7 @@ Moscow
   - E-mail
     - sam409@yandex.ru
   - Linkedin
-   - https://www.linkedin.com/in/maria-savina/
+    - https://www.linkedin.com/in/maria-savina/
 
 ##  I'm looking for a remote job
 
