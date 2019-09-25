@@ -6,6 +6,8 @@ Moscow
 
 ##  I'm looking for a remote job
 
+### Work experience 
+
 - April 2019 — currently. **Visitech LLT**
     - ***Senior C# developer.***
       - Duties: Developing back-end web applications
@@ -56,3 +58,6 @@ Moscow
           - Home accounting: This project is for home accounting. I had made it myself from the beginning and to the end.
           - Recruitment: This's a small project for a recruitment. I was the only member of the team.
           
+###Higher education (bachelor)
+ - 2017 **Moscow Financial-Industrial University 'Synergy'**
+   - ***IT, Developing***
