@@ -18,72 +18,59 @@ Moscow
 
 ### About me
 - Managing team
-- C#, Roslyn, Net Core, ASP.NET Core, Entity Framework
+- C#, Roslyn, .Net Framework, .Net Core, ASP.NET Core, Entity Framework, LINQ
 - Java SE, Core, Java 8, Spring Framework
 - Design Patterns, Object Oriented Concepts, GoF Design Patterns, UML
 - Frontend technologies (HTML, CSS, JavaScript, jQuery)
 - GIT, SVN
 - JIRA, Confluence, SCRUM
-- unit testing
+- Unit testing
 - SQL, MySQL, PostgreSQL, MS SQL,
 - XML, JSON, REST
 - ANTLR4, Roslyn
-- IDEA, Eclipse, Visual Studio
+- IntelliJ IDEA, Eclipse, Visual Studio
 - Intermediate level of english (B1)
-- Work well with a multidiscipline team
+- Getting on well with a multidiscipline team
 ### Work experience 
 
-- April 2019 — currently. **Visitech LLT**
+- April 2019 — сurrently. **Visitech LLT**
     - ***Senior C# developer.***
-      - Duties: Developing back-end web applications
-      - Developing for the Linux OS and Windows OS
-      - Stack: C #, .NET Core, .NET Framework, ASP.NET Core, LINQ, Entity Framework 6, Entity Framework Core, xUnit, MOQ
-      - DBMS: PostrgeSQL, MSSQL
-      - RCP and server applications: Microsoft Visual Studio, BitBucket, JIRA, Confluence
-      - Progect: ISOBR (customer - Gazprom)
+      - Developing back-end web applications, developing for the Linux OS and Windows OS;
+      - Development tools and technologies used: C#, .NET Core, .NET Framework, ASP.NET Core, LINQ, Entity Framework 6, Entity Framework Core, xUnit, MOQ;
+      - DBMS: PostgreSQL, MS SQL;
+      - RCP and server applications: Microsoft Visual Studio, BitBucket, JIRA, Confluence;
+      - Project: ISOBR.
       
-- April 2018 — april 2019. **Aspose**
+- April 2018 — April 2019. **Aspose**
     - ***TeamLead***
-      -  Duties: Manaded team of 3 people, developed c # (90% of the time) and java (10%) code (system development), worked with Roslyn, conducted technical interviews
-      - Achievements: 3 people went to work, designed the project
-      - Development tools and technologies used: Java Core, c#, .NET Framework
-      - Frameworks: Roslyn, Entity Framework, LINQ, Net Core, ASP/NET Core
-      - DBMS: PostrgeSQL, MS SQL
-      - RCP and server applications: Microsoft Visual Studio, Intelijis idea, GIT, JIRA, Confluence
-      - Projects: porting of code from c# to java
+      -  Duties: Managing of 3 people, developing C# (90% of time) and Java (10%) code (system development), working with Roslyn, conducting technical interviews, designing the project;
+      - Development tools and technologies used: Java Core, C#, .NET Framework, .NET Core, Roslyn, Entity Framework, LINQ, Net Core, ASP/NET Core;
+      - DBMS: PostgreSQL, MS SQL;
+      - RCP and server applications: Microsoft Visual Studio, IntelliJ IDEA, GIT, JIRA, Confluence;
+      - Projects: porting of code from C# to Java.
     
-- September 2017 — november 2017. **Satel**
+- September 2017 — November 2017. **Satel**
     - ***Senior Java Developer/TeamLead***
-        - Duties and achievements: Developed on java a highly loaded web application from scratch
-        - Developed an architecture and selected frameworks for the application
-        - I wrote the validation rules for ANTLR4
-        - Developed a back-end on java
-        - Worked with databases: PostgreSQL
-        - Supervised and trained by a team of 3 developers
-        - Development tools and technologies used: Java (J2EE) techlologies: Java EE, Java8, Servlets
-        - Frameworks: Spring, Spring MVC, REST, JUnit, Maven
-        - DBMS: PostrgeSQL, ODANT
-        - RCP and server applications: WSO2, Intelijis idea, GIT, JIRA, Confluence, SCRUM
-        - Worked with DBMS ODANT on XQUERY
-        - Project: back-end for the corporate portal of a large Russian state customer
-          
+        - Duties and achievements: managing of 3 people, developing a highly loaded web application on Java, designing an architecture and selecting frameworks for the application, writing validation rules on ANTLR4;
+        - Development tools and technologies used: Java EE, Java8, Spring, Spring MVC, REST, JUnit, Maven;
+        - DBMS: PostgreSQL;
+        - RCP and server applications: WSO2, IntelliJ IDEA, GIT, JIRA, Confluence; GIT, JIRA, Confluence, SCRUM;
+        - Project: back-end for the corporate portal of a large Russian state customer.          
     
- - August 2016 — august 2017. **IT business solutions**
+ - August 2016 — August 2017. **IT business solutions**
      - ***Java developer***
-        - Duties: Development software, design of technical systems
-        - Technologies: Java (J2EE) techlologies: Java EE, Servlets, JSP, JSTL, Vaadin,Spring, Spring Data JPA, Spring MVC, REST, Hibernate, JUnit, Maven, PostrgeSQL, MS SQL, Tomcat, Intelijis idea, SVN
-        - Project: Development of software for the account of subscriber post office box Russian Post. Here I contributed to plugin on c#, java back-end and front-end on Vaadin
-        - JIRA, Confluence, SCRUM
-  - November 2013 — august 2016  **Knaur**        
+        - Duties: developing software, designing technical systems;
+        - Development tools and technologies used: Java EE, C# Servlets, JSP, JSTL, Vaadin, Spring, Spring Data JPA, Spring MVC, REST, Hibernate, JUnit, Maven;
+        - DBMS: PostgreSQL, MS SQL;
+        - RCP and server applications: JIRA, Confluence, SCRUM, IntelliJ IDEA, SVN, Tomcat;
+        - Project: developing software for the account for subscriber of post office box Russian Post.
+
+  - November 2013 — August 2016  **Knaur**        
     - ***Java developer***
-        - Duties: Development software, education junior, design of technical systems
-        - Technologies: Spring, Spring MVC, Spring Data JPA, Spring Security, Spring WebFlow,Java EE, JUnit, Maven, Servlets, PostgreSQL, JDBC, MySQL, SQL Server, Tomcat, Glassfish, JSF, JSP, JSTL, jQuery.
-        - Projects:
-          - Solid Community: This's an open source project. Here I was involved in a team development and trained juniors. This's free social network for the exchange of goods and services. I did DAO layer and worked with databases.
-          - Home accounting: This project is for home accounting. I had made it myself from the beginning and to the end.
-          - Recruitment: This's a small project for a recruitment. I was the only member of the team.
+        - Duties: developing software, designing technical systems;
+        - Development tools and technologies used: Spring, Spring MVC, Spring Data JPA, Spring Security, Spring WebFlow, Java EE, JUnit, Maven, Servlets, PostgreSQL, JDBC, MySQL, SQL Server, Tomcat, Glassfish, JSF, JSP, JSTL, jQuery.
           
 ### Higher education (bachelor)
  - 2017 **Moscow Financial-Industrial University 'Synergy'**
-   - ***IT, Developing***
+   - ***IT, Computer science***
 ### Citizenship: Russia
