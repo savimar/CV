@@ -36,7 +36,7 @@ Moscow
 - April 2019 — сurrently. **Visitech LLT**
     - ***Senior C# developer.***
       - Developing back-end web applications, developing for the Linux OS and Windows OS;
-      - Development tools and technologies used: C#, .NET Core, .NET Framework, ASP.NET Core, LINQ, Entity Framework 6, Entity Framework Core, xUnit, MOQ;
+      - Development tools and technologies using: C#, .NET Core, .NET Framework, ASP.NET Core, LINQ, Entity Framework 6, Entity Framework Core, xUnit, MOQ;
       - DBMS: PostgreSQL, MS SQL;
       - RCP and server applications: Microsoft Visual Studio, BitBucket, JIRA, Confluence;
       - Project: ISOBR.
@@ -44,7 +44,7 @@ Moscow
 - April 2018 — April 2019. **Aspose**
     - ***TeamLead***
       -  Duties: Managing of 3 people, developing C# (90% of time) and Java (10%) code (system development), working with Roslyn, conducting technical interviews, designing the project;
-      - Development tools and technologies used: Java Core, C#, .NET Framework, .NET Core, Roslyn, Entity Framework, LINQ, Net Core, ASP/NET Core;
+      - Development tools and technologies using: Java Core, C#, .NET Framework, .NET Core, Roslyn, Entity Framework, LINQ, Net Core, ASP/NET Core;
       - DBMS: PostgreSQL, MS SQL;
       - RCP and server applications: Microsoft Visual Studio, IntelliJ IDEA, GIT, JIRA, Confluence;
       - Projects: porting of code from C# to Java.
@@ -52,7 +52,7 @@ Moscow
 - September 2017 — November 2017. **Satel**
     - ***Senior Java Developer/TeamLead***
         - Duties and achievements: managing of 3 people, developing a highly loaded web application on Java, designing an architecture and selecting frameworks for the application, writing validation rules on ANTLR4;
-        - Development tools and technologies used: Java EE, Java8, Spring, Spring MVC, REST, JUnit, Maven;
+        - Development tools and technologies using: Java EE, Java8, Spring, Spring MVC, REST, JUnit, Maven;
         - DBMS: PostgreSQL;
         - RCP and server applications: WSO2, IntelliJ IDEA, GIT, JIRA, Confluence; GIT, JIRA, Confluence, SCRUM;
         - Project: back-end for the corporate portal of a large Russian state customer.          
@@ -60,7 +60,7 @@ Moscow
  - August 2016 — August 2017. **IT business solutions**
      - ***Java developer***
         - Duties: developing software, designing technical systems;
-        - Development tools and technologies used: Java EE, C# Servlets, JSP, JSTL, Vaadin, Spring, Spring Data JPA, Spring MVC, REST, Hibernate, JUnit, Maven;
+        - Development tools and technologies using: Java EE, C# Servlets, JSP, JSTL, Vaadin, Spring, Spring Data JPA, Spring MVC, REST, Hibernate, JUnit, Maven;
         - DBMS: PostgreSQL, MS SQL;
         - RCP and server applications: JIRA, Confluence, SCRUM, IntelliJ IDEA, SVN, Tomcat;
         - Project: developing software for the account for subscriber of post office box Russian Post.
@@ -68,7 +68,7 @@ Moscow
   - November 2013 — August 2016  **Knaur**        
     - ***Java developer***
         - Duties: developing software, designing technical systems;
-        - Development tools and technologies used: Spring, Spring MVC, Spring Data JPA, Spring Security, Spring WebFlow, Java EE, JUnit, Maven, Servlets, PostgreSQL, JDBC, MySQL, SQL Server, Tomcat, Glassfish, JSF, JSP, JSTL, jQuery.
+        - Development tools and technologies using: Spring, Spring MVC, Spring Data JPA, Spring Security, Spring WebFlow, Java EE, JUnit, Maven, Servlets, PostgreSQL, JDBC, MySQL, SQL Server, Tomcat, Glassfish, JSF, JSP, JSTL, jQuery.
           
 ### Higher education (bachelor)
  - 2017 **Moscow Financial-Industrial University 'Synergy'**
