@@ -33,18 +33,11 @@ Moscow
 - Getting on well with a multidiscipline team
 ### Work experience 
 
-- April 2019 — сurrently. **Visitech LLT**
-    - ***Senior C# developer.***
-      - Developing back-end web applications, developing for the Linux OS and Windows OS;
-      - Development tools and technologies using: C#, .NET Core, .NET Framework, ASP.NET Core, LINQ, Entity Framework 6, Entity Framework Core, xUnit, MOQ;
-      - DBMS: PostgreSQL, MS SQL;
-      - RCP and server applications: Microsoft Visual Studio, BitBucket, JIRA, Confluence;
-      - Project: ISOBR.
       
-- April 2018 — April 2019. **Aspose**
+- April 2018 — — сurrently. **Aspose**
     - ***TeamLead***
-      -  Duties: Managing of 3 people, developing C# (90% of time) and Java (10%) code (system development), working with Roslyn, conducting technical interviews, designing the project;
-      - Development tools and technologies using: Java Core, C#, .NET Framework, .NET Core, Roslyn, Entity Framework, LINQ, Net Core, ASP/NET Core;
+      -  Managing of 3 people, developing C# (90% of time) and Java (10%) code (system development), working with Roslyn, conducting technical interviews, designing the project, developing back-end web applications
+      - Development tools and technologies using: Java Core, C#, .NET Framework, .NET Core, Roslyn, Entity Framework, Net Core, ASP.NET Core, NET Core, . LINQ, Entity Framework 6, Entity Framework Core, xUnit, MOQ;
       - DBMS: PostgreSQL, MS SQL;
       - RCP and server applications: Microsoft Visual Studio, IntelliJ IDEA, GIT, JIRA, Confluence;
       - Projects: porting of code from C# to Java.
