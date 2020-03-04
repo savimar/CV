@@ -14,7 +14,7 @@ Moscow
   - Linkedin
     - https://www.linkedin.com/in/maria-savina/
 
-##  I'm looking for a remote job
+##  I'm looking for a job
 
 ### About me
 - Managing team
@@ -34,7 +34,7 @@ Moscow
 ### Work experience 
 
       
-- April 2018 — — сurrently. **Aspose**
+- November 2017 — сurrently. **Aspose**
     - ***TeamLead***
       -  Managing of 3 people, developing C# (90% of time) and Java (10%) code (system development), working with Roslyn, conducting technical interviews, designing the project, developing back-end web applications
       - Development tools and technologies using: Java Core, C#, .NET Framework, .NET Core, Roslyn, Entity Framework, Net Core, ASP.NET Core, NET Core, . LINQ, Entity Framework 6, Entity Framework Core, xUnit, MOQ;
