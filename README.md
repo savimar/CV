@@ -1,6 +1,6 @@
 **Maria Savina**
 ===========
-***# ASP NET Core Developer***
+***# TeamLead java/c#/ASP NET Core***
 ### Contacts
 Moscow
  - Phone
@@ -17,7 +17,7 @@ Moscow
 ##  I'm looking for a job
 
 ### About me
-- Managing team
+- Managing remote team
 - C#, Roslyn, .Net Framework, .Net Core, ASP.NET Core, Entity Framework, LINQ
 - Java SE, Core, Java 8, Spring Framework
 - Design Patterns, Object Oriented Concepts, GoF Design Patterns, UML
@@ -36,7 +36,7 @@ Moscow
       
 - November 2017 — сurrently. **Aspose**
     - ***TeamLead***
-      -  Managing of 3 people, developing C# (90% of time) and Java (10%) code (system development), working with Roslyn, conducting technical interviews, designing the project, developing back-end web applications
+      -  Managing a remote team of 3 people, developing C# (90% of time) and Java (10%) code (system development), working with Roslyn, conducting technical interviews, designing the project, developing back-end web applications
       - Development tools and technologies using: Java Core, C#, .NET Framework, .NET Core, Roslyn, Entity Framework, Net Core, ASP.NET Core, NET Core, . LINQ, Entity Framework 6, Entity Framework Core, xUnit, MOQ;
       - DBMS: PostgreSQL, MS SQL;
       - RCP and server applications: Microsoft Visual Studio, IntelliJ IDEA, GIT, JIRA, Confluence;
