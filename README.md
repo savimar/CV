@@ -1,6 +1,6 @@
 **Maria Savina**
 ===========
-***# TeamLead Java/C#/ASP NET Core***
+***# TeamLead/Architect Java/C#/ASP NET Core***
 ### Contacts
 Moscow
  - Phone
