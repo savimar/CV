@@ -33,11 +33,8 @@ Moscow
 - Getting on well with a multidiscipline team
 ### Work experience 
 
-- May 2020 — сurrently. **Department of information technologies of the city of Moscow**
-    - ***Solution Architect***
-      - Projects: urban e-government services.
       
-- November 2017 — April 2020 **Aspose**
+- November 2017 — сurrently **Aspose**
     - ***TeamLead***
       -  Managing a remote team of 3 people, developing C# (90% of time) and Java (10%) code (system development), working with Roslyn, conducting technical interviews, designing the project, developing back-end web applications
       - Development tools and technologies using: Java Core, C#, .NET Framework, .NET Core, Roslyn, Entity Framework, Net Core, ASP.NET Core, NET Core, . LINQ, Entity Framework 6, Entity Framework Core, xUnit, MOQ;
