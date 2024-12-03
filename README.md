@@ -1,6 +1,6 @@
 **Maria Savina**
 ===========
-***# Solution Architect***
+### Solution Architect
 ### Contacts
 Moscow
  - Phone
@@ -12,7 +12,6 @@ Moscow
   - Linkedin
     - https://www.linkedin.com/in/maria-savina/
 
-##  I'm looking for a job
 
 ### About me
 - Design of application architecture and integrations
@@ -35,12 +34,12 @@ Moscow
 ### Work experience 
 
   - May 2020 — сurrently **Department of information technologies of the city of Moscow**
-    - **Solution Architect***
+    - ***Solution Architect***
       - Application architecture design, development of architectural and technical documentation, application architecture control, architectural supervision of contractors, creation of technical documentation
       - Achievements: Software design services for over 15 million users
       - Development tools and technologies using: BPMN, C4, UML notations
       - RCP and server applications: GIT, JIRA, Confluence, structurizr;
-      - Projects: - public services for city residents
+      - Projects:  public services for city residents
      
          
 - November 2017 — February 2020 **Aspose**
@@ -75,4 +74,7 @@ Moscow
 ### Higher education (bachelor)
  - 2017 **Moscow Financial-Industrial University 'Synergy'**
    - ***IT, Computer science***
+### Higher education (Master's degree)
+- 2021 **Moscow Financial-Industrial University 'Synergy'**
+   - ***Information management***
 ### Citizenship: Russia
