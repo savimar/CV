@@ -34,13 +34,13 @@ Moscow
 - 
 ### Work experience 
 
-  - may 2020 — сurrently **Department of information technologies of the city of Moscow**
+  - May 2020 — сurrently **Department of information technologies of the city of Moscow**
     - **Solution Architect***
-- Application architecture design, development of architectural and technical documentation, application architecture control, architectural supervision of contractors, creation of technical documentation
-Achievements: Software design services for over 15 million users
-Development tools and technologies using: BPMN, C4, UML notations
-RCP and server applications: GIT, JIRA, Confluence, structurizr;
-Projects: - public services for city residents
+      - Application architecture design, development of architectural and technical documentation, application architecture control, architectural supervision of contractors, creation of technical documentation
+      - Achievements: Software design services for over 15 million users
+      - Development tools and technologies using: BPMN, C4, UML notations
+      - RCP and server applications: GIT, JIRA, Confluence, structurizr;
+      - Projects: - public services for city residents
      
          
 - November 2017 — February 2020 **Aspose**
