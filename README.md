@@ -1,12 +1,10 @@
 **Maria Savina**
 ===========
-***# TeamLead/Architect Java/C#/ASP NET Core***
+***# Solution Architect***
 ### Contacts
 Moscow
  - Phone
    - +7 (916) 443-33-51
- - Skype
-   - savimar33
  - Telegramm 
     - @savimar
   - E-mail
@@ -17,6 +15,7 @@ Moscow
 ##  I'm looking for a job
 
 ### About me
+- Design of application architecture and integrations
 - Managing remote team
 - C#, Roslyn, .Net Framework, .Net Core, ASP.NET Core, Entity Framework, LINQ
 - Java SE, Core, Java 8, Spring Framework
@@ -31,10 +30,20 @@ Moscow
 - IntelliJ IDEA, Eclipse, Visual Studio
 - Intermediate level of english (B1)
 - Getting on well with a multidiscipline team
+
+- 
 ### Work experience 
 
-      
-- November 2017 — сurrently **Aspose**
+  - may 2020 — сurrently **Department of information technologies of the city of Moscow**
+    - **Solution Architect***
+- Application architecture design, development of architectural and technical documentation, application architecture control, architectural supervision of contractors, creation of technical documentation
+Achievements: Software design services for over 15 million users
+Development tools and technologies using: BPMN, C4, UML notations
+RCP and server applications: GIT, JIRA, Confluence, structurizr;
+Projects: - public services for city residents
+     
+         
+- November 2017 — February 2020 **Aspose**
     - ***TeamLead***
       -  Managing a remote team of 3 people, developing C# (90% of time) and Java (10%) code (system development), working with Roslyn, conducting technical interviews, designing the project, developing back-end web applications
       - Development tools and technologies using: Java Core, C#, .NET Framework, .NET Core, Roslyn, Entity Framework, Net Core, ASP.NET Core, NET Core, . LINQ, Entity Framework 6, Entity Framework Core, xUnit, MOQ;
